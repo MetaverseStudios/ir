@@ -1,0 +1,18 @@
+How to lend.
+1) Find a loan application that is suitable for you. Ensure that the collateral is sufficient to cover your losses if the borrower fails to repay the loan.
+If you haven't found the loan application, you can create a lend application. In that case, the borrowers will submit their loan applications to you. You'll receive a notification on your Telegram account when it happens.
+2) Make an offer to the borrower by pressing the "New Offer" button on the loan application page.
+3) Wait for the borrower to review and accept your offer. We created a Telegram bot that will notify you if the borrower accepts your offer.
+4) Wait until the loan term ends to claim repayment or collateral if the borrower fails to repay the loan.
+
+https://p2pstellar.com/lending/lender/applications
+
+What are my risks?
+
+Even though these are collateralized loans, there is some risks involved:
+
+1) The collateral could be any asset on Stellar blockchain. You are, as a lender, responsible for verifying the value of the collateral. The value should be sufficient to recover the losses if the borrower fails to repay the loan.
+
+2) The are no liquidations. If the borrower fails to repay the loan, you'll receive the collateral asset. You are responsible for selling/exchanging the collateral to recover your losses. So you have to keep in mind that the collateral could lose its value over the loan duration.
+
+3) For some collateral assets, the asset issuer could clawback or freeze it.
